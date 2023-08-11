@@ -97,7 +97,7 @@
     /* review */
     .review{
         /* border: 1px solid brown; */
-        margin: 5% 10%;
+        margin: 5% 7%;
         padding: 1%;
         /* height:300px; */
         box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
@@ -111,7 +111,7 @@
         border-radius: 10%;
         /* display: inline-block;
         clear: left; */
-        margin: 10%;
+        margin: 10% 7%;
         box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
         padding: 2%;
         background-color: rgb(243, 240, 240);
